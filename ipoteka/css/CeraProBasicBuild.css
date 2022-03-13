@@ -1,0 +1,47 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3851182, 2019-12-25T22:16:46-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: CeraPRO-Bold by TypeMates
+ * URL: https://www.myfonts.com/fonts/typemates/cera/pro-bold/
+ * Copyright: Copyright (c) 2015 by Jakob Runge, under exclusive license to TypeMates, Runge Thomsen GbR. All rights reserved.
+ * 
+ * Webfont: CeraPro-Light by TypeMates
+ * URL: https://www.myfonts.com/fonts/typemates/cera/pro-light/
+ * Copyright: Copyright (c) 2015, 2018 by Jakob Runge, under exclusive license to TypeMates. All rights reserved.
+ * 
+ * Webfont: CeraPro-Medium by TypeMates
+ * URL: https://www.myfonts.com/fonts/typemates/cera/pro-medium/
+ * Copyright: Copyright (c) 2015, 2018 by Jakob Runge, under exclusive license to TypeMates. All rights reserved.
+ * 
+ * Webfont: CeraPro-Regular by TypeMates
+ * URL: https://www.myfonts.com/fonts/typemates/cera/pro-regular/
+ * Copyright: Copyright (c) 2015, 2018 by Jakob Runge, under exclusive license to TypeMates. All rights reserved.
+ * 
+ * Webfont: CeraPro-RegularItalic by TypeMates
+ * URL: https://www.myfonts.com/fonts/typemates/cera/pro-italic/
+ * Copyright: Copyright (c) 2015, 2018 by Jakob Runge, under exclusive license to TypeMates. All rights reserved.
+ * 
+ * 
+ * Licensed pageviews: 6,000,000
+ * 
+ * © 2019 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/3ac3ae");
+
+  
+@font-face {font-family: 'CeraProBold';src: url('webfonts/3AC3AE_2_0.eot');src: url('webfonts/3AC3AE_2_0.eot?#iefix') format('embedded-opentype'),url('webfonts/3AC3AE_2_0.woff2') format('woff2'),url('webfonts/3AC3AE_2_0.woff') format('woff'),url('webfonts/3AC3AE_2_0.ttf') format('truetype');}
+@font-face {font-family: 'CeraProLight';src: url('webfonts/3AC3AE_1_0.eot');src: url('webfonts/3AC3AE_1_0.eot?#iefix') format('embedded-opentype'),url('webfonts/3AC3AE_1_0.woff2') format('woff2'),url('webfonts/3AC3AE_1_0.woff') format('woff'),url('webfonts/3AC3AE_1_0.ttf') format('truetype');}
+@font-face {font-family: 'CeraProMedium';src: url('webfonts/3AC3AE_2_0.eot');src: url('webfonts/3AC3AE_2_0.eot?#iefix') format('embedded-opentype'),url('webfonts/3AC3AE_2_0.woff2') format('woff2'),url('webfonts/3AC3AE_2_0.woff') format('woff'),url('webfonts/3AC3AE_2_0.ttf') format('truetype');}
+@font-face {font-family: 'CeraProRegular';src: url('webfonts/3AC3AE_3_0.eot');src: url('webfonts/3AC3AE_3_0.eot?#iefix') format('embedded-opentype'),url('webfonts/3AC3AE_3_0.woff2') format('woff2'),url('webfonts/3AC3AE_3_0.woff') format('woff'),url('webfonts/3AC3AE_3_0.ttf') format('truetype');}
+@font-face {font-family: 'CeraProItalic';src: url('webfonts/3AC3AE_4_0.eot');src: url('webfonts/3AC3AE_4_0.eot?#iefix') format('embedded-opentype'),url('webfonts/3AC3AE_4_0.woff2') format('woff2'),url('webfonts/3AC3AE_4_0.woff') format('woff'),url('webfonts/3AC3AE_4_0.ttf') format('truetype');}
+ 
